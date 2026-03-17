@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large raw artifacts
+outputs/attention/reasoning_attention_records_1000.jsonl
+outputs/attention/candidates_1000.jsonl
+outputs/attention/rejections_1000.csv
+outputs/attention/*smoke*.jsonl
+outputs/attention/*smoke*.csv
+outputs/attention/*check5*.jsonl
+outputs/attention/*check5*.csv
+outputs/visualizations/per_sample/
+outputs/visualizations/progression/

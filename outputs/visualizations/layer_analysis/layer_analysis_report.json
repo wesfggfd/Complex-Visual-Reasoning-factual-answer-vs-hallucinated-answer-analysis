@@ -1,0 +1,131 @@
+{
+  "record_count": 1000,
+  "sequence_sample_count": 2000,
+  "top_layers": [
+    {
+      "layer_index": 3,
+      "pc1_variance_ratio": 0.42550755798859924,
+      "pc2_variance_ratio": 0.10415263109050282,
+      "pca_centroid_distance": 2.6177642293684307
+    },
+    {
+      "layer_index": 4,
+      "pc1_variance_ratio": 0.4741746057989007,
+      "pc2_variance_ratio": 0.10635803800988376,
+      "pca_centroid_distance": 2.1765600155799714
+    },
+    {
+      "layer_index": 2,
+      "pc1_variance_ratio": 0.48714032265164203,
+      "pc2_variance_ratio": 0.09314150029856268,
+      "pca_centroid_distance": 1.9254784227947856
+    },
+    {
+      "layer_index": 5,
+      "pc1_variance_ratio": 0.4272032142185145,
+      "pc2_variance_ratio": 0.10572863328519706,
+      "pca_centroid_distance": 1.8680903299108487
+    },
+    {
+      "layer_index": 1,
+      "pc1_variance_ratio": 0.5394551604811904,
+      "pc2_variance_ratio": 0.09251389980453306,
+      "pca_centroid_distance": 1.5903899335886165
+    },
+    {
+      "layer_index": 0,
+      "pc1_variance_ratio": 0.5021258974220496,
+      "pc2_variance_ratio": 0.08799719726158704,
+      "pca_centroid_distance": 1.5073411060101114
+    },
+    {
+      "layer_index": 10,
+      "pc1_variance_ratio": 0.46504831558608606,
+      "pc2_variance_ratio": 0.07648362209716353,
+      "pca_centroid_distance": 1.0320108572743372
+    },
+    {
+      "layer_index": 8,
+      "pc1_variance_ratio": 0.46193244601241007,
+      "pc2_variance_ratio": 0.09658535505078299,
+      "pca_centroid_distance": 0.9966375557514052
+    }
+  ],
+  "top_bands": [
+    {
+      "start_layer": 2,
+      "end_layer": 4,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.4394334380193277,
+      "pc2_variance_ratio": 0.09350293364571838,
+      "pca_centroid_distance": 3.8631521990239097
+    },
+    {
+      "start_layer": 3,
+      "end_layer": 5,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.42912310996715947,
+      "pc2_variance_ratio": 0.09886112011114045,
+      "pca_centroid_distance": 3.8314548873879266
+    },
+    {
+      "start_layer": 1,
+      "end_layer": 3,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.4558686390588654,
+      "pc2_variance_ratio": 0.08665047535917965,
+      "pca_centroid_distance": 3.4651310757549783
+    },
+    {
+      "start_layer": 0,
+      "end_layer": 2,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.48936680410524613,
+      "pc2_variance_ratio": 0.08095305909246645,
+      "pca_centroid_distance": 2.8750426648700045
+    },
+    {
+      "start_layer": 4,
+      "end_layer": 6,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.43238405624130144,
+      "pc2_variance_ratio": 0.09853878339127481,
+      "pca_centroid_distance": 2.65037474966937
+    },
+    {
+      "start_layer": 5,
+      "end_layer": 7,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.41474564818166626,
+      "pc2_variance_ratio": 0.10487968700787582,
+      "pca_centroid_distance": 1.751068870470518
+    },
+    {
+      "start_layer": 8,
+      "end_layer": 10,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.4292959060742245,
+      "pc2_variance_ratio": 0.06493267586728967,
+      "pca_centroid_distance": 1.6668448288112712
+    },
+    {
+      "start_layer": 9,
+      "end_layer": 11,
+      "band_width": 3,
+      "pc1_variance_ratio": 0.42047960818937036,
+      "pc2_variance_ratio": 0.06987817834098563,
+      "pca_centroid_distance": 0.9604006902177596
+    }
+  ],
+  "sequence_pca_explained_variance_ratio": [
+    0.4022327088998528,
+    0.07239729951086159,
+    0.045103680667582476,
+    0.038422894502371754,
+    0.03253080919430799,
+    0.02946669908152339,
+    0.025868134494266008,
+    0.022832074759336254
+  ],
+  "include_manifold": true
+}

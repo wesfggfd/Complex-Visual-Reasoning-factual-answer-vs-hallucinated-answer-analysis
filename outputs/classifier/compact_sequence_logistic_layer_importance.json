@@ -1,0 +1,64 @@
+{
+  "top_layers": [
+    {
+      "layer_index": 10,
+      "mean_abs_weight": 0.3175864604941906,
+      "max_abs_weight": 0.9126435952468201,
+      "sum_abs_weight": 20.325533471628198
+    },
+    {
+      "layer_index": 3,
+      "mean_abs_weight": 0.3106794386526822,
+      "max_abs_weight": 0.93747382847957,
+      "sum_abs_weight": 19.883484073771662
+    },
+    {
+      "layer_index": 11,
+      "mean_abs_weight": 0.2807240647619901,
+      "max_abs_weight": 1.1200957816800543,
+      "sum_abs_weight": 17.966340144767365
+    },
+    {
+      "layer_index": 5,
+      "mean_abs_weight": 0.2645838049956205,
+      "max_abs_weight": 0.9546278113026722,
+      "sum_abs_weight": 16.933363519719713
+    },
+    {
+      "layer_index": 9,
+      "mean_abs_weight": 0.26401979754157967,
+      "max_abs_weight": 0.7318976170252282,
+      "sum_abs_weight": 16.8972670426611
+    },
+    {
+      "layer_index": 8,
+      "mean_abs_weight": 0.24528003508045904,
+      "max_abs_weight": 1.0743023702100052,
+      "sum_abs_weight": 15.697922245149378
+    },
+    {
+      "layer_index": 1,
+      "mean_abs_weight": 0.2419529608308415,
+      "max_abs_weight": 2.127676475628305,
+      "sum_abs_weight": 15.484989493173856
+    },
+    {
+      "layer_index": 0,
+      "mean_abs_weight": 0.2385452186017858,
+      "max_abs_weight": 1.4651609229176683,
+      "sum_abs_weight": 15.26689399051429
+    },
+    {
+      "layer_index": 6,
+      "mean_abs_weight": 0.23815140375929744,
+      "max_abs_weight": 0.9648607158248332,
+      "sum_abs_weight": 15.241689840595036
+    },
+    {
+      "layer_index": 4,
+      "mean_abs_weight": 0.2227202801862888,
+      "max_abs_weight": 0.9062337405937513,
+      "sum_abs_weight": 14.254097931922484
+    }
+  ]
+}
